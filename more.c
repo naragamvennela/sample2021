@@ -2,6 +2,6 @@
 main()
 {
 int a=10,b=5;
-int c=a+b;
-print("addition of two values is ",c);
+print("addition of two values is ",a+b);
+print("subtraction is ",a-b);
 }
